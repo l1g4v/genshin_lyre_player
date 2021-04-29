@@ -20,7 +20,7 @@ After you install python from python.org download this repo and extract it
 ### Second way
 
 1. Download the file from the releases tab
-2. Right-Click on the file -> Properties -> Compatibility and check the square ````Run this program as administrator```
+2. Right-Click on the file -> Properties -> Compatibility and check the square ```Run this program as administrator```
 3. Open the lyre in game
 4. Drag&Drop the midi file you want to play into the file
 5. If you want to stop the player, press the key ```CAPS LOCK``` in your keyboard (make sure to remove caps lock afterwards or it won't work)
